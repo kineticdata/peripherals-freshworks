@@ -1,8 +1,8 @@
 ---
-repo-name: peripherals-
+repo-name: peripherals-freshworks
 categories:
-- Temp
-display-name: Temp
-manufacturer: 
-product:
-description: Temp.
+- ITSM
+display-name: Fresh Works
+manufacturer: Freshworks
+product: Freshservice
+description: Cloud based ITSM software for service desks.
