@@ -6,7 +6,7 @@ Used for requests to the Freshservice REST API V1 Service
 
 **api_password**: The password for the integration user.
 
-**api_location**: API Location (https://acme.kinops.io/app/api/v1).
+**api_location**: API Location (ex: https://domain.freshdesk.com/api/v2).
 
 **enable_debug_logging**: Yes or No. Controls logging behavior. 
 

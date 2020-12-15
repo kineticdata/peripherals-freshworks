@@ -8,7 +8,7 @@
   <parameters>
     <parameter id="error_handling" label="Error Handling" required="true" tooltip="Determine what to return if an error is encountered." menu="Error Message,Raise Error">Error Message</parameter>
     <parameter id="method" label="Method" required="true" menu="GET,POST,PUT,PATCH,DELETE" tooltip="GET,POST,PUT,PATCH,DELETE (Defaults to GET)">GET</parameter>
-    <parameter id="path" label="Path" required="true" tooltip="Example: /kapps/:kappSlug/forms/:formSlug"></parameter>
+    <parameter id="path" label="Path" required="true" tooltip="Example: /tickets"></parameter>
     <parameter id="body" label="Body" required="false" tooltip="JSON body if applicable (POST,PUT,PATCH)"></parameter>
   </parameters>
 
